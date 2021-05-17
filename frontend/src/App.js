@@ -91,7 +91,6 @@ class App extends Component {
         {this.state.uploadImageModal ? (
           <UploadImageModal
             uploadImageModal={this.state.uploadImageModal}
-            onHide={() => this.setState({uploadImageModal: false})}
           />
         ) : null}
       </div>

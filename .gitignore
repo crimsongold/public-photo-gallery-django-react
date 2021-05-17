@@ -36,3 +36,5 @@ photogallery/__pycache__
 
 # VIRTUALENV
 venv/*
+*.pyc
+photogallery/migrations/__pycache__/0001_initial.cpython-39.pyc
